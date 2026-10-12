@@ -1,0 +1,10 @@
+SVG sources:
+Skill Icons — https://github.com/tandpfun/skill-icons (MIT).
+Simple Icons — https://github.com/simple-icons/simple-icons (CC0-1.0).
+Canva icon: Simple Icons v12.4.0.
+CapCut icon: theSVG — https://github.com/glincker/thesvg (MIT).
+Original brand paths are used for identification; brand names and marks
+belong to their respective owners. Tile wrappers are used to match the
+Skill Icons layout.
+
+Emoji in the preview images: Twemoji, Twitter, https://github.com/twitter/twemoji, CC-BY-4.0. The README itself uses native Unicode emoji.
