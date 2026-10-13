@@ -16,7 +16,6 @@ Soy **Cristian Skylar**, de Ecuador. Trabajo en **dirección creativa, diseño w
 - 💻 Diseño y desarrollo sitios web a medida.
 - ✨ Trabajo con interfaces, diseño y animaciones web.
 - 💬 Ayudo a profesionales a trabajar su marca personal y presencia digital.
-- 🎨 Uso Canva y edito videos con CapCut a nivel básico.
 
 ---
 
